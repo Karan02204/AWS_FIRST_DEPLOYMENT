@@ -1,4 +1,4 @@
-<h1>Public Deployed Link (Elastic IP Address) : 16.170.107.239</h1>
+<h1>Public Deployed Link (Elastic IP Address) : http://16.170.107.239</h1>
 
 
 <h2>EC2 Instance Screenshot:</h2>
