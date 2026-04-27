@@ -1,12 +1,14 @@
-<h1>Public Deployed Link (Elastic IP Address) : http://16.170.107.239</h1>
+<h1>Name : Karan Attri</h1>
+<h1>Registration Number : 12309068</h1>
+
+<h2>Deployed Website Link : http://karanattri-s3-demo-bucket.s3-website.eu-north-1.amazonaws.com</h2>
 
 
-<h2>EC2 Instance Screenshot:</h2>
-<img width="1914" height="909" alt="image" src="https://github.com/user-attachments/assets/85e24b01-ab06-4f01-9a1b-605d6b87fc96" />
+<h2>S3 Bucket Files</h2>
+<img width="1919" height="913" alt="image" src="https://github.com/user-attachments/assets/08311b88-52ac-403d-9ce7-0ec486b2e06c" />
 
-<h2>Screenshot of login from USER 1(user-no-acess)</h2>
-<img width="1919" height="910" alt="image" src="https://github.com/user-attachments/assets/5721254e-0d96-406f-9e86-2fee04e28ebe" />
+<h2>Versioning of Files</h2>
+<img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/39c00ac8-a720-41b1-99f7-b4fefcbcef9c" />
 
-
-<h2>Screenshot of login from USER 2(user-no-acess)</h2>
-<img width="1919" height="910" alt="image" src="https://github.com/user-attachments/assets/dc9ff75f-d387-44f4-8ad2-d2ddcee13eb8" />
+<h2>LifeCycle Rule Configuration</h2>
+<img width="1918" height="914" alt="image" src="https://github.com/user-attachments/assets/08e5eeae-925b-40d7-9774-9a757bbc4ed4" />
